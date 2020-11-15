@@ -1,0 +1,23 @@
+
+.message__card{
+    /* background-color: red!important; */
+    padding: 20px!important;
+    margin: 20px!important;
+    width: fit-content;
+}
+.message__user{
+margin-left: auto!important;
+color: white;
+text-align: left!important;
+}
+.message__userCard{
+background-color: teal!important;
+color: honeydew!important;
+border-radius: 10px!important;
+}
+.message__gestCard{
+background-color: rgb(73, 72, 72)!important;
+color: rgb(250, 248, 249)!important;
+
+border-radius: 10px!important;
+}
